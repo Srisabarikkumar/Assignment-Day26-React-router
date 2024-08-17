@@ -1,8 +1,32 @@
-# React + Vite
+# React Router Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a repository of React Router Task's Solution.
 
-Currently, two official plugins are available:
+# Installation Steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install node modules :
+
+```bash
+ npm i
+```
+2. First run the development :
+
+```bash
+ npm run dev
+```
+
+3. Start the server :
+
+```bash
+ npm run dev
+```
+
+4. Open the browser :
+ 
+```bash
+ http://localhost:5173
+```
+
+# Deployed URL
+
+https://react-router-app-task.netlify.app
